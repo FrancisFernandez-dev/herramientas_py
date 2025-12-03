@@ -1,0 +1,33 @@
+
+---
+
+#  **README — 03_condicionales**
+```md
+# 03 – Condicionales en Python
+
+Este módulo incluye un programa que utiliza estructuras condicionales para la toma de decisiones en Python:
+
+- `if`
+- `elif`
+- `else`
+
+---
+
+##  Programa incluido
+### ✔ **clasificar_numero.py**
+Analiza un número ingresado por el usuario y determina si es:
+
+- Positivo
+- Negativo
+- Cero
+
+**Conceptos aplicados:**
+- Comparaciones (`>`, `<`, `==`)
+- Estructuras condicionales
+- Entrada de datos por consola
+
+---
+
+##  Cómo ejecutar
+```bash
+python clasificar_numero.py

@@ -1,0 +1,27 @@
+
+---
+
+#  **README — 04_bucles**
+```md
+# 04 – Bucles e Iteraciones
+
+Este módulo incluye dos programas que utilizan estructuras iterativas:
+
+- Bucle `for`
+- Bucle `while`
+
+---
+
+##  Programas incluidos
+### ✔ **tabla_multiplicar.py**
+Genera la tabla de multiplicar del número ingresado, utilizando un ciclo `for`.
+
+### ✔ **factorial.py**
+Calcula el factorial de un número mediante un ciclo `while`.
+
+---
+
+##  Cómo ejecutar
+```bash
+python tabla_multiplicar.py
+python factorial.py
