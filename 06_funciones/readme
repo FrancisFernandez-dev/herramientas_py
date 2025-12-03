@@ -1,0 +1,32 @@
+
+---
+
+#  **README — 06_funciones**
+```md
+# 06 – Funciones y Modularización
+
+Este módulo contiene un programa que utiliza funciones para dividir un problema en partes reutilizables.
+
+---
+
+##  Programa incluido
+### ✔ **areas_geometricas.py**
+Calculadora de áreas de:
+
+- Círculo
+- Triángulo
+- Rectángulo
+
+Cada fórmula está implementada en una función independiente.
+
+**Conceptos aplicados:**
+- Definición de funciones con `def`
+- Retorno de valores (`return`)
+- Parámetros y argumentos
+- Modularización del código
+
+---
+
+##  Cómo ejecutar
+```bash
+python areas_geometricas.py

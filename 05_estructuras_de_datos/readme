@@ -1,0 +1,30 @@
+
+---
+
+#  **README — 05_estructuras_de_datos**
+```md
+# 05 – Estructuras de Datos en Python
+
+Este módulo ejemplifica el uso de estructuras de datos como:
+
+- Diccionarios (`dict`)
+- Llaves y valores
+- Iteración sobre elementos
+
+---
+
+##  Programa incluido
+### ✔ **agenda_contactos.py**
+Implementa una agenda simple con las siguientes funcionalidades:
+
+- Agregar contactos
+- Listar contactos
+- Guardar datos en un diccionario
+- Recorrer elementos con un `for`
+- Sistema de menús mediante bucles y condicionales
+
+---
+
+##  Cómo ejecutar
+```bash
+python agenda_contactos.py
