@@ -1,0 +1,31 @@
+
+---
+
+#  **README — 01_conceptos_basicos**
+```md
+# 01 – Conceptos Básicos de Python
+
+Este módulo contiene un programa introductorio que demuestra el uso de:
+
+- Variables
+- Operadores matemáticos
+- Entrada y salida de datos por consola
+- Conversión de tipos básicos
+
+---
+
+##  Programa incluido
+###  **conversor_unidades.py**
+Convierte una temperatura ingresada en grados Celsius a Fahrenheit utilizando operadores aritméticos simples.
+
+**Conceptos aplicados:**
+- `input()` para ingresar datos
+- `float()` para manejar números decimales
+- Operadores matemáticos
+- Uso de `print()` con f-strings
+
+---
+
+##  Cómo ejecutar
+```bash
+python conversor_unidades.py

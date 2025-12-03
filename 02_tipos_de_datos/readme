@@ -1,0 +1,31 @@
+
+---
+
+#  **README — 02_tipos_de_datos**
+```md
+# 02 – Tipos de Datos y Sentencias Básicas
+
+Este módulo demuestra cómo trabajar con los diferentes tipos de datos fundamentales del lenguaje Python:
+
+- Cadenas (`str`)
+- Enteros (`int`)
+- Flotantes (`float`)
+- Booleanos (`bool`)
+
+---
+
+##  Programa incluido
+### ✔ **formulario_usuario.py**
+Simula un pequeño formulario por consola que solicita información al usuario y la almacena en variables de distintos tipos.
+
+**Conceptos aplicados:**
+- Conversión de tipos (`int()`, `float()`)
+- Uso de booleanos mediante comparación
+- Impresión estructurada de resultados
+- Entrada por teclado
+
+---
+
+##  Cómo ejecutar
+```bash
+python formulario_usuario.py
